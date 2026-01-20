@@ -72,7 +72,7 @@ I'm a **Ph.D. candidate** at **Fudan University**, focusing on cutting-edge rese
 
 #### 🏆 ASE 2024 (CCF-A)
 
-**Magneto: Detecting and Locating Magnetic Needle Attacks in Smart Home Automation**
+**Magneto: Exploiting Vulnerabilities in Dependent Libraries**
 
 *39th IEEE/ACM International Conference on Automated Software Engineering*
 
