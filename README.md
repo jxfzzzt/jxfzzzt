@@ -91,7 +91,7 @@ I'm a **Ph.D. candidate** at **Fudan University**, focusing on cutting-edge rese
 
 | Year | Venue | Title | Links |
 |:----:|:-----:|:------|:-----:|
-| 2024 | ASE | Magneto: Detecting and Locating Magnetic Needle Attacks | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/jxfzzzt/ASE2024-Magneto) |
+| 2024 | ASE | Magneto: Exploit Vulnerabilities in Dependent Libraries | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/jxfzzzt/ASE2024-Magneto) |
 | - | - | *More papers coming soon...* | - |
 
 </details>
@@ -108,7 +108,7 @@ I'm a **Ph.D. candidate** at **Fudan University**, focusing on cutting-edge rese
 
 </div>
 
-> **Magneto** - A novel approach for detecting and locating magnetic needle attacks in smart home automation systems. Published at ASE 2024.
+> **Magneto** - A novel approach for exploiting vulnerabilities in dependent libraries. Published at ASE 2024.
 
 ---
 
