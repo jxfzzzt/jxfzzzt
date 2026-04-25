@@ -34,10 +34,10 @@ I'm interested in bridging **classical program analysis** with **modern LLM capa
 
 ### Publications
 
-- **ASE 2024** (CCF-A) · *Magneto: Exploit Vulnerabilities in Dependent Libraries* · *39th IEEE/ACM International Conference on Automated Software Engineering* &nbsp;
+- **ASE 2024** (CCF-A) · *Magneto: A Step-Wise Approach to Exploit Vulnerabilities in Dependent Libraries via LLM-Empowered Directed Fuzzing* · *39th IEEE/ACM International Conference on Automated Software Engineering* &nbsp;
   [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jxfzzzt/ASE2024-Magneto)
-  [![Paper](https://img.shields.io/badge/Paper-0066CC?style=flat-square&logo=ieee&logoColor=white)](https://github.com/jxfzzzt/ASE2024-Magneto)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://github.com/jxfzzzt/ASE2024-Magneto)
+  [![Paper](https://img.shields.io/badge/Paper-0066CC?style=flat-square&logo=ieee&logoColor=white)](https://dl.acm.org/doi/pdf/10.1145/3691620.3695531)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://dl.acm.org/doi/pdf/10.1145/3691620.3695531)
 
 For a complete list, see my [**Google Scholar**](https://scholar.google.com/citations?user=Rq88HyMAAAAJ&hl=zh-CN) profile.
 
@@ -45,6 +45,6 @@ For a complete list, see my [**Google Scholar**](https://scholar.google.com/cita
 
 ### GitHub Activity
 
-<a href="https://github.com/jxfzzzt"><img height="155" src="https://github-readme-stats.vercel.app/api?username=jxfzzzt&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /></a>
+<a href="https://github.com/jxfzzzt"><img height="155" src="https://github-readme-stats.vercel.app/api?username=jxfzzzt&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" /></a>
 <a href="https://github.com/jxfzzzt"><img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxfzzzt&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" /></a>
 <a href="https://github.com/jxfzzzt/ASE2024-Magneto"><img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=jxfzzzt&repo=ASE2024-Magneto&theme=github_dark_dimmed&hide_border=true" /></a>
