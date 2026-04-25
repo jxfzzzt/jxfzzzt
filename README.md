@@ -47,4 +47,6 @@ For a complete list, see my [**Google Scholar**](https://scholar.google.com/cita
 
 <a href="https://github.com/jxfzzzt"><img height="155" src="https://github-readme-stats.vercel.app/api?username=jxfzzzt&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" /></a>
 <a href="https://github.com/jxfzzzt"><img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxfzzzt&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" /></a>
+<a href="https://github.com/jxfzzzt/ISSTA26-Librarian"><img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=jxfzzzt&repo=ASE2024-Magneto&theme=github_dark_dimmed&hide_border=true" /></a>
+<a href="https://github.com/jxfzzzt/ISSTA26-Librarian-Benchmark"><img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=jxfzzzt&repo=ASE2024-Magneto&theme=github_dark_dimmed&hide_border=true" /></a>
 <a href="https://github.com/jxfzzzt/ASE2024-Magneto"><img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=jxfzzzt&repo=ASE2024-Magneto&theme=github_dark_dimmed&hide_border=true" /></a>
